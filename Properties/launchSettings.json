@@ -25,6 +25,12 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "BlazorTestRepo - Watch": {
+      "commandName": "Executable",
+      "workingDirectory": "$(ProjectDir)",
+      "executablePath": "/usr/bin/dotnet",
+      "commandLineArgs": "watch run"
     }
   }
 }
